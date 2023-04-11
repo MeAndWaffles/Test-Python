@@ -54,10 +54,10 @@ python -m pytest tests/
 
 ## Структура проекту
 
-tests: директорія з тестами
-pages: директорія з класами сторінок
-helpers: директорія з допоміжними класами та методами
-conftest.py: файл з налаштуваннями PyTest
+- tests: директорія з тестами
+- pages: директорія з класами сторінок
+- helpers: директорія з допоміжними класами та методами
+- conftest.py: файл з налаштуваннями PyTest
 
 ## Автор
 
@@ -118,6 +118,13 @@ pytest test_file.py
 ```
 python -m pytest tests/
 ```
+
+## Project structure
+
+- tests: directory with tests
+- pages: directory with page classes
+- helpers: directory with helper classes and methods
+- conftest.py: PyTest configuration file
 
 ## Author
 
