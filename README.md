@@ -4,15 +4,21 @@
 
 Встановлення
 1. Встановіть Python 3.x з офіційного сайту 
-[Python 3.x](https://www.python.org/downloads/)
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Завантажте або клонуйте проект з GitHub
 3. Перейдіть до папки з проектом у терміналі
 4. Створіть та активуйте віртуальне середовище за допомогою команд:
 ```
 python -m venv venv
-venv\Scripts\activate (для Windows)
-source venv/bin/activate (для Linux/MacOS)
 ```
+```
+venv\Scripts\activate
+```
+(для Windows)
+```
+source venv/bin/activate
+```
+(для Linux/MacOS)
 5. Встановіть всі залежності проекту, виконавши команду 
 ```
 pip install -r requirements.txt
@@ -43,15 +49,21 @@ This project is an example of web testing automation using Python programming la
 Installation
 
 1. Install Python 3.x from the official website
-[Python 3.x](https://www.python.org/downloads/)
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Download or clone the project from GitHub
 3. Navigate to the project folder in the terminal
 4. Create and activate a virtual environment with the following commands:
 ```
 python -m venv venv
-venv\Scripts\activate (for Windows)
-source venv/bin/activate (for Linux/MacOS)
 ```
+```
+venv\Scripts\activate
+```
+(for Windows)
+```
+source venv/bin/activate
+```
+(for Linux/MacOS)
 5. Install all project dependencies by executing the command
 ```
 pip install -r requirements.txt
