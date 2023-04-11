@@ -19,6 +19,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 (для Linux/MacOS)
+
 5. Встановіть всі залежності проекту, виконавши команду 
 ```
 pip install -r requirements.txt
@@ -64,6 +65,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 (for Linux/MacOS)
+
 5. Install all project dependencies by executing the command
 ```
 pip install -r requirements.txt
