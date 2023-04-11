@@ -43,7 +43,7 @@ pages: директорія з класами сторінок
 helpers: директорія з допоміжними класами та методами
 conftest.py: файл з налаштуваннями PyTest
 
-Test-Python
+# Test-Python
 Project Description
 This project is an example of web testing automation using Python programming language and Selenium framework with the Page Object pattern implementation.
 
